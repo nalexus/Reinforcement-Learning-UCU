@@ -1,4 +1,4 @@
-# Link to my summary on DQN paper, i.e. ”Playing Atari with Deep Reinforcement Learning” (from ML course):
+# Link to my summary on DQN paper, i.e. ”Playing Atari with Deep Reinforcement Learning” by Mnih et al (from ML course):
 https://drive.google.com/file/d/1EFoSBxw5Bg1PC6OYREQbgzw8m7HW30a1/view?usp=sharing
 
 # Reinforcement-Learning-course-UCU (Presentations and HW)
