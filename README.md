@@ -7,6 +7,7 @@ Presentation on paper "Continuous control ith deep reinforcement learning" by Li
 https://docs.google.com/presentation/d/1RhxpTfulqt0lxIYbxe-krUrkT81h5WWE-prEgkUSepE/edit?usp=sharing
 
 Presentation on paper "Curiosity-driven Exploration by Self-supervised Prediction" by Pathak et al. (2017)
+https://docs.google.com/presentation/d/1SZOhFrjSOmuP93aRsowYLkZlTPFzXp3WIxzLTk0xHVY/edit?usp=sharing
 
 HW1 - Fundamentals (Value Iteration etc.):
 https://colab.research.google.com/drive/1WPW49MCFbr30Aqoi0oTbNSbOt6EXjZHj?usp=sharing
