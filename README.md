@@ -1,6 +1,9 @@
 # Link to my ML course summary on DQN paper, i.e. ”Playing Atari with Deep Reinforcement Learning” by Mnih et al.:
 https://drive.google.com/file/d/1EFoSBxw5Bg1PC6OYREQbgzw8m7HW30a1/view?usp=sharing
 
+# Link to 2021 year (most recent NeurIPS not included) literature review for diploma on topic ”Exploration of Reinforcement Learning agent in procedurally-generated environments with sparse rewards”:
+https://drive.google.com/file/d/1E1m-8x0WHPM0F78JmhMuJiMyslJjTo9C/view?usp=sharing
+
 # Reinforcement-Learning-course-UCU (Presentations and HW)
 
 Presentation on paper "Continuous control ith deep reinforcement learning" by Lillicrap et al. (2016):
